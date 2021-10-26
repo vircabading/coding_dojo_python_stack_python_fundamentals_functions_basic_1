@@ -80,7 +80,7 @@ print(concatenate(2,5))
 # /////////////////////////////////////////////////////////////
 print_desc("#8")
 
-# Prediction: 
+# Prediction: print 100 --> print 10
 
 def number_of_oceans_or_fingers_or_continents():
     b = 100
