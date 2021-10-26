@@ -30,7 +30,7 @@ def number_of_military_branches():
 # /////////////////////////////////////////////////////////////
 print_desc("#3")
 
-# Prediction: 
+# Prediction: print 5 as the number of books on hold
 
 def number_of_books_on_hold():
     return 5
