@@ -117,11 +117,10 @@ def addition(b,c):
     return 10
 print(addition(3,5))
 
-"""
 # /////////////////////////////////////////////////////////////
 print_desc("#11")
 
-# Prediction: 
+# Prediction: print 500 -->print 500 --> print 300 --> print 500
 
 b = 500
 print(b)
@@ -132,6 +131,7 @@ print(b)
 foobar()
 print(b)
 
+"""
 # /////////////////////////////////////////////////////////////
 print_desc("#12")
 
