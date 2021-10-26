@@ -107,17 +107,17 @@ print(number_of_days_in_a_week_silicon_or_triangle_sides(2,3))
 print(number_of_days_in_a_week_silicon_or_triangle_sides(5,3))
 print(number_of_days_in_a_week_silicon_or_triangle_sides(2,3) + number_of_days_in_a_week_silicon_or_triangle_sides(5,3))
 
-"""
 # /////////////////////////////////////////////////////////////
 print_desc("#10")
 
-# Prediction: 
+# Prediction: print 8
 
 def addition(b,c):
     return b+c
     return 10
 print(addition(3,5))
 
+"""
 # /////////////////////////////////////////////////////////////
 print_desc("#11")
 
