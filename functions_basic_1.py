@@ -47,17 +47,18 @@ def number_of_fingers():
     print(10)
 print(number_of_fingers())
 
-"""
 # /////////////////////////////////////////////////////////////
 print_desc("#5")
 
-# Prediction: 
+# Prediction: prints 5 twice
+# actual result, function returns none
 
 def number_of_great_lakes():
     print(5)
 x = number_of_great_lakes()
 print(x)
 
+"""
 # /////////////////////////////////////////////////////////////
 print_desc("#6")
 
