@@ -58,16 +58,17 @@ def number_of_great_lakes():
 x = number_of_great_lakes()
 print(x)
 
-"""
 # /////////////////////////////////////////////////////////////
 print_desc("#6")
 
-# Prediction: 
+# Prediction: print 3, 5, none
+# Actual" prints 3, 5 then gives error for trying to add none
 
 def add(b,c):
     print(b+c)
 print(add(1,2) + add(2,3))
 
+"""
 # /////////////////////////////////////////////////////////////
 print_desc("#7")
 
