@@ -92,11 +92,10 @@ def number_of_oceans_or_fingers_or_continents():
     return 7
 print(number_of_oceans_or_fingers_or_continents())
 
-"""
 # /////////////////////////////////////////////////////////////
 print_desc("#9")
 
-# Prediction: 
+# Prediction: print 7 --> print 14 --> print 21
 
 def number_of_days_in_a_week_silicon_or_triangle_sides(b,c):
     if b<c:
@@ -108,6 +107,7 @@ print(number_of_days_in_a_week_silicon_or_triangle_sides(2,3))
 print(number_of_days_in_a_week_silicon_or_triangle_sides(5,3))
 print(number_of_days_in_a_week_silicon_or_triangle_sides(2,3) + number_of_days_in_a_week_silicon_or_triangle_sides(5,3))
 
+"""
 # /////////////////////////////////////////////////////////////
 print_desc("#10")
 
