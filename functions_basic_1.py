@@ -12,21 +12,20 @@ def print_desc(description) :
 # /////////////////////////////////////////////////////////////
 print_desc("#1")
 
-# Prediction: 
+# Prediction: prints 5
 
 def number_of_food_groups():                                    
     return 5
 print(number_of_food_groups())
 
-"""
 # /////////////////////////////////////////////////////////////
 print_desc("#2")
 
-# Prediction: 
+# Prediction: error undefined function
 
 def number_of_military_branches():
     return 5
-print(number_of_days_in_a_week_silicon_or_triangle_sides() + number_of_military_branches())
+# print(number_of_days_in_a_week_silicon_or_triangle_sides() + number_of_military_branches())
 
 # /////////////////////////////////////////////////////////////
 print_desc("#3")
@@ -38,6 +37,7 @@ def number_of_books_on_hold():
     return 10
 print(number_of_books_on_hold())
 
+"""
 # /////////////////////////////////////////////////////////////
 print_desc("#4")
 
