@@ -174,11 +174,10 @@ def bar():
     print(3)
 foo()
 
-"""
 # /////////////////////////////////////////////////////////////
 print_desc("#15")
 
-# Prediction: 
+# Prediction: print 1 --> print 3 return 5 --> print 5 return 10 --> print 10
 
 def foo():
     print(1)
@@ -190,5 +189,3 @@ def bar():
     return 5
 y = foo()
 print(y)
-
-"""
