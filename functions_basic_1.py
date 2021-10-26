@@ -37,17 +37,17 @@ def number_of_books_on_hold():
     return 10
 print(number_of_books_on_hold())
 
-"""
 # /////////////////////////////////////////////////////////////
 print_desc("#4")
 
-# Prediction: 
+# Prediction: print 5 as the number of fingers
 
 def number_of_fingers():
     return 5
     print(10)
 print(number_of_fingers())
 
+"""
 # /////////////////////////////////////////////////////////////
 print_desc("#5")
 
