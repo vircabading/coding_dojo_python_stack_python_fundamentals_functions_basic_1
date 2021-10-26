@@ -66,13 +66,12 @@ print_desc("#6")
 
 def add(b,c):
     print(b+c)
-print(add(1,2) + add(2,3))
+# print(add(1,2) + add(2,3))
 
-"""
 # /////////////////////////////////////////////////////////////
 print_desc("#7")
 
-# Prediction: 
+# Prediction: print 25
 
 def concatenate(b,c):
     return str(b)+str(c)
@@ -93,6 +92,7 @@ def number_of_oceans_or_fingers_or_continents():
     return 7
 print(number_of_oceans_or_fingers_or_continents())
 
+"""
 # /////////////////////////////////////////////////////////////
 print_desc("#9")
 
