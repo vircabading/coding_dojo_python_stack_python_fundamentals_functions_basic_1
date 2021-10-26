@@ -161,11 +161,10 @@ print(b)
 b=foobar()
 print(b)
 
-"""
 # /////////////////////////////////////////////////////////////
 print_desc("#14")
 
-# Prediction: 
+# Prediction: print 1 -->print 3 --> print 2
 
 def foo():
     print(1)
@@ -175,6 +174,7 @@ def bar():
     print(3)
 foo()
 
+"""
 # /////////////////////////////////////////////////////////////
 print_desc("#15")
 
