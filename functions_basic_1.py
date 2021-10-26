@@ -131,11 +131,10 @@ print(b)
 foobar()
 print(b)
 
-"""
 # /////////////////////////////////////////////////////////////
 print_desc("#12")
 
-# Prediction: 
+# Prediction: print 500 -->print 500 --> print 300 return 300 --> print 500
 
 b = 500
 print(b)
@@ -147,6 +146,7 @@ print(b)
 foobar()
 print(b)
 
+"""
 # /////////////////////////////////////////////////////////////
 print_desc("#13")
 
